@@ -6,7 +6,7 @@
 - Used to cross-reference previous attempts and block phishing attempts.
 
 **<h2>Future Development</h2>**
-- Created a global API for integration with platforms and email providers to automate the flagging and removal of phishing incidents.
-- Integrated with threat intelligence reports to enhance database accuracy with the latest phishing URLs and malicious IPs.
-- Utilized machine learning for advanced pattern recognition and detection of new phishing tactics.
-- Engaged with users and cybersecurity communities to improve threat reporting and collaborative defense strategies.
+- Create a global API for integration with platforms and email providers to automate the flagging and removal of phishing incidents.
+- Integrate the database with threat intelligence reports to enhance database accuracy with the latest phishing URLs and malicious IPs.
+- Utilize machine learning for advanced pattern recognition and detection of new phishing tactics.
+- Engage with users and cybersecurity communities to improve threat reporting and collaborative defense strategies.
